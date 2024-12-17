@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subscript and Superscript Example</title>
+</head>
+<body>
+    <h2>Subscript and Superscript Example</h2>
+
+    <p>Here is an example of a chemical formula with a subscript:</p>
+    <p>Water: H<sub>2</sub>O</p>
+
+    <p>Here is an example of a mathematical expression with a superscript:</p>
+    <p>Square of a number: x<sup>2</sup></p>
+
+    <p>Another example: E = mc<sup>2</sup></p>
+
+    <p>Using both in one line: CO<sub>2</sub> and x<sup>3</sup> + y<sup>2</sup></p>
+</body>
+</html>
